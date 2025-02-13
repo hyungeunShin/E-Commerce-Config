@@ -1,3 +1,7 @@
 token:
   expiration_time: 86400000
   secret: ZS1jb21tZXJjZSB1c2VyLXNlcnZpY2UgdXNlci10b2tlbg==
+
+test:
+  test1: 1111
+  test2: 2222
