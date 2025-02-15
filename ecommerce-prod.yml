@@ -3,5 +3,5 @@ token:
   secret: ZS1jb21tZXJjZSB1c2VyLXNlcnZpY2UgdXNlci10b2tlbg==
 
 test:
-  test1: default
-  test2: 1111
+  test1: prod
+  test2: 3333
